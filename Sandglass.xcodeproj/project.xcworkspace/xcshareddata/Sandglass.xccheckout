@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62346068-E534-4F73-89EA-9FB23F407F66</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sandglass</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0B6BE302EB9E6E8B320EBEC88292C8C5EF7C571</key>
+		<string>https://github.com/Artwalk/Sandglass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sandglass.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0B6BE302EB9E6E8B320EBEC88292C8C5EF7C571</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Artwalk/Sandglass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0B6BE302EB9E6E8B320EBEC88292C8C5EF7C571</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0B6BE302EB9E6E8B320EBEC88292C8C5EF7C571</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sandglass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
